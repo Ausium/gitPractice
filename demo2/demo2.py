@@ -1,3 +1,6 @@
 print('demo2')
 print('demo1')
 print('demo3')
+print('demo4')
+print('demo5')
+print('demo6')
